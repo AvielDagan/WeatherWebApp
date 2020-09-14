@@ -1,6 +1,7 @@
 Weather web app using React
 
 Before we start we need to run the backend here : https://github.com/AvielDagan/WeatherWebApp-Flask.
+
 Follow the README instructions.
 
 In the project directory, you can run:
